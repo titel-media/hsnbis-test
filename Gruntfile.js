@@ -75,5 +75,5 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-browserify');
 
-  grunt.registerTask('default', ['watch']);
+  grunt.registerTask('default', ['copy:pages', 'sass:pages', 'browserify:pages', 'watch']);
 };
