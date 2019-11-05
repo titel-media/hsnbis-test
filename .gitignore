@@ -9,3 +9,5 @@ dist
 # also sass-cache
 .sass-cache
 .sass-cache/*
+
+.editorconfig
