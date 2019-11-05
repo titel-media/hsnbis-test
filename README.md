@@ -31,7 +31,8 @@ Access the page via dist/index.html.
 
 You don't have to:
 - bother with switching content under each panel. Just do the navigation;
-- use the markup / styles we provided. If you want to do it differently, go for it.
+- use the markup / styles we provided. If you want to do it differently, go for it;
+- use the libraries in package.json. If you prefer other tools, go for it.
 
 You have to:
 - animate the transition between panels (ideally on hover and click);

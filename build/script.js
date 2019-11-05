@@ -1,3 +1,6 @@
+// add libs like
+// var gsap = require('gsap');
+
 (function(window) {
 
   'use strict';
