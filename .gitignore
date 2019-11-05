@@ -11,3 +11,4 @@ dist
 .sass-cache/*
 
 .editorconfig
+.eslintrc.json
