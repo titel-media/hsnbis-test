@@ -40,4 +40,8 @@ You have to:
 - cool, but not mandatory: illustrate the transition between panels 1 and 3;
 - bonus: make it flawless cross-browser.
 
+Feel free to:
+- ask questions
+- use google (but if you copy and paste something please demonstrate that you know what it does)
+
 Have fun!
