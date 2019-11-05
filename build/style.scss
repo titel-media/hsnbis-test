@@ -82,9 +82,10 @@ button {
 
       &__mask {
         position: absolute;
+        display: block;
         height: 100%;
         width: 100%;
-        background-color: rgba(0, 0, 0, 0.45);
+        background-color: rgba(0, 0, 0, 0.22);
         top: 0;
         left: 0;
       }
