@@ -21,7 +21,7 @@ $ gem install sass --pre
 
 Run default task:
 ```
-grunt
+$ grunt
 ```
 
 The task inits the dist/ folder and sets watchers on the build/ files script.js, styles.scss, index.html.
